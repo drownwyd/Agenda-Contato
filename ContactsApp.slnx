@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ContactsApp.Tests/ContactsApp.Tests.csproj" />
+    <Project Path="src/ContactsApp/ContactsApp.csproj" />
+  </Folder>
+</Solution>
