@@ -179,8 +179,8 @@ O projeto segue uma **arquitetura em camadas** bem definida:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/agenda-c#.git
-cd agenda-c#
+git clone https://github.com/seu-usuario/agenda-c#.git](https://github.com/drownwyd/Agenda-Contato.git
+cd Agenda-Contato
 ```
 
 ### 2. Restaure as Dependências
@@ -452,7 +452,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-Desenvolvido com ❤️ usando C# e WPF
+Desenvolvido por Drownwyd com ❤️ usando C# e WPF
 
 ---
 
